@@ -253,7 +253,7 @@ Complete Machine Learning Specialization, covering Supervised Machine Learning, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saymi313/saymi313/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/saymi313/saymi313/output/github-contribution-grid-snake.svg?v=2" width="100%"/>
 
 </div>
 
