@@ -223,11 +223,17 @@ Complete Machine Learning Specialization, covering Supervised Machine Learning, 
 
 <br/>
 
-## GitHub Trophies
+## GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saymi313&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saymi313&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saymi313&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saymi313&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saymi313&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saymi313&theme=tokyonight&utcOffset=5" width="48%"/>
 
 </div>
 
